@@ -2,7 +2,7 @@
 A Floating Action Button inspired from Google inbox for iOS.
 
 
-![](http://i.imgur.com/yh4MwCB.gif)
+
 ## Using this in your project
 - Import the VCFloatingActionButton to your project
 - Use VCFloatingActionButton.h 
